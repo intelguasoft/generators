@@ -1,0 +1,28 @@
+{
+    "name": "intelguasoft/generators",
+    "description": "Generate numbers in a specific way according to the needs of the user.",
+    "keywords": [
+        "generators",
+        "lotto",
+        "lottery",
+        "generate",
+        "random",
+        "aleatorio"
+    ],
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Henry Díaz",
+            "email": "hnrdiaz@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "src\\": "IntelGUA/"
+        }
+    },
+    "version": "1.0.0",
+    "minimum-stability": "dev",
+    "require": {}
+}
