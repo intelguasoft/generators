@@ -19,7 +19,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "IntelGUA\\Generators": "src/"
+            "IntelGUA\\Generators\\": "src/"
         }
     },
     "version": "1.0.0",
